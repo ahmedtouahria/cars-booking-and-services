@@ -1,4 +1,3 @@
-Sure, here's an example README file for a Django project called "Cars Booking and Services":
 
 # Cars Booking and Services
 
