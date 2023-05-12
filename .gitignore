@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+env/
+# Local development settings
+/local_settings.py
+
+# Media files (images, videos, etc.)
+#/media/
+
+# Static files (CSS, JavaScript, etc.)
+#/static/
+
+# Compiled translations
+/locale/
+
+# Log files
+*.log
+logs/
+log/
+
+# Database files
+*.sqlite3
+db.sqlite3
+
+# IDE-specific files
+.idea/
+.vscode/
+*.pyc
+
+# Secret keys
+*.key
+*.secret
+*.pem
